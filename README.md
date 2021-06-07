@@ -6,7 +6,7 @@
 
 
 # Viewed Here:
-- ![Example Video](https://drive.google.com/file/d/1tREpklHdk9enVe5llRwSJnCQaIGn1JtB/view)
+- [Example Video](https://drive.google.com/file/d/1tREpklHdk9enVe5llRwSJnCQaIGn1JtB/view)
 - [github](https://github.com/JoeDonMalone/E-Commerce)
 
 ## Description
